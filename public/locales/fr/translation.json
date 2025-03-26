@@ -1,0 +1,7 @@
+{
+    "greeting": "Bonjour, bienvenue sur le site web.",
+    "description": {
+      "line1": "Vous regardez la chaîne <1>{{channel}}</1> YouTube",
+      "line2": "Ceci est un tutoriel sur l'internationalisation"
+    }
+}
